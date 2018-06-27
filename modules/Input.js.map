@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/Input.js"],"names":["default"],"mappings":";;;;;;;;;;;gEACSA,O","file":"Input.js","sourcesContent":["// Deprecated file. Will be removed in version 2.x.\r\nexport { default as default } from './PhoneInputReactResponsiveUI'"]}

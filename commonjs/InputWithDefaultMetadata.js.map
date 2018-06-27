@@ -1,0 +1,1 @@
+{"version":3,"sources":["../source/InputWithDefaultMetadata.js"],"names":["default"],"mappings":";;;;;;;;;;;+EACSA,O","file":"InputWithDefaultMetadata.js","sourcesContent":["// Deprecated file. Will be removed in some future major version.\r\nexport { default as default } from './PhoneInputReactResponsiveUIDefaultMetadata'"]}
